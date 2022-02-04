@@ -4,4 +4,8 @@ let length = txt.length;
 let part = str.slice(firstfortune)
 function sayFortune() {
     alert(firstfortune);
-}
+};
+function sayFortune()
+{
+    alert(secondfortune);
+};
